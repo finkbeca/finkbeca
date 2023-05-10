@@ -2,7 +2,7 @@
 
 I'm Colin. 
 
-I'm an incoming Ph.D. student at UConn with interests in Cryptography, Market Design,CryptoInfra and Auction Theory.  
+I'm an incoming Ph.D. student at UConn with interests in Cryptography, Market Design, CryptoInfra and Auction Theory.  
 
 prev: President at [Blockchain at Michigan](https://www.michiganblockchain.org/#contactus) and developer at [Duality](https://twitter.com/dualityxyz?lang=en)
 
