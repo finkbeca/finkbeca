@@ -4,7 +4,7 @@ I'm Colin.
 
 I'm an incoming Ph.D. student at UConn with interests in Cryptography, Market Design, Auction Theory, and CryptoInfra.  
 
-prev: President at Blockchain at Michigan and developer at Duality.xyz
+prev: President at [Blockchain at Michigan](https://www.michiganblockchain.org/#contactus) and developer at [Duality](https://twitter.com/dualityxyz?lang=en)
 
 
 - https://finkbeca.github.io/
