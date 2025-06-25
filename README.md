@@ -6,7 +6,7 @@ I'm a Ph.D. student at UConn with interests in Cryptography, Market Design, Cryp
 
 prev: President at [Blockchain at Michigan](https://www.michiganblockchain.org/#contactus) and developer at [Duality](https://twitter.com/dualityxyz?lang=en)
 
-
+- Webpage: https://finkbeca.github.io/
 - Email: colin.finkbeiner@uconn.edu
 - Twitter: https://twitter.com/finkbeca
 
